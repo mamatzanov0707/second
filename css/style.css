@@ -12,6 +12,19 @@ body {
   margin: 0 auto;
 }
 
+#how .how--cart {
+  width: 111%;
+  margin-left: -70px;
+  height: 64px;
+  background: #EE4248;
+}
+#how .how--cart h1 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px 0;
 #car {
   padding-top: 20px;
 }
