@@ -4,7 +4,41 @@
 }
 
 body {
-  background: royalblue;
+  background: #ffffff;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+#car {
+  padding-top: 20px;
+}
+#car .car {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+#car .car--haw span {
+  margin-left: 10px;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 143.19%;
+  letter-spacing: 0.065em;
+  color: rgba(0, 0, 0, 0.6);
+}
+#car .car--haw p {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 149.19%;
+  color: #263238;
+}
+#car .car--how {
+  margin-top: 50px;
+}
+#car .car h1 {
+  padding: 10px 0;
 }
 
 /*# sourceMappingURL=style.css.map */
